@@ -1,3 +1,5 @@
+
+![](https://github.com/ellatom/MyDashboard/tree/master/deltika-dashboard/graph.jpeg)
 <h1>Dashboard</h1>
 <ul>
 <li>Instruction to run<br>
